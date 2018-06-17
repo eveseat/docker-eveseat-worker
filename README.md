@@ -1,4 +1,4 @@
-![SeAT](http://i.imgur.com/aPPOxSK.png)
+![SeAT](https://i.imgur.com/aPPOxSK.png)
 # docker-eveseat-worker
 
 ## This repository contains the SeAT Worker container Dockerfile
